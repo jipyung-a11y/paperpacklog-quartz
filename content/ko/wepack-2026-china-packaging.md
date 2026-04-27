@@ -93,7 +93,7 @@ WEPACK 2026의 다음 행사는 2027년에 다시 선전에서 열릴 예정이�
 
 ## 작성자 소개
 
-**PackingMaster** — 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 매주 모아 정리합니다.
+**PackingMaster** — 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 모아 정리합니다.
 
 **참고 자료**
 - [PR Newswire, "WEPACK 2026 Concludes on a Record High, Reinforcing China's Role at the Heart of the Global Packaging Industry" (2026.04.27)](https://www.prnewswire.com/apac/news-releases/wepack-2026-concludes-on-a-record-high-reinforcing-chinas-role-at-the-heart-of-the-global-packaging-industry-302752990.html)
