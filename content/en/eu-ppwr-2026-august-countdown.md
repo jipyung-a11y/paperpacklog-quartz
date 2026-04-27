@@ -56,6 +56,24 @@ Hansol Paper recently hosted a technical seminar for around 60 representatives f
 
 Approximately three months remain before August 12. Given that documentation preparation and material qualification typically take several months, exporters who have not started will face real risk of shipment delays or order cancellations from European buyers.
 
+## FAQ
+
+**Q: When exactly does PPWR take effect?**
+
+EU PPWR (Regulation 2025/40) entered into force on February 11, 2025. Most core obligations apply from **August 12, 2026**. Packaging placed on the EU market from that date must meet PPWR requirements.
+
+**Q: Who must prepare the Declaration of Conformity?**
+
+The manufacturer or importer placing packaged goods on the EU market is responsible for preparing and maintaining both the Declaration of Conformity and the Technical Documentation. Coordination with material suppliers is required to assemble the technical file.
+
+**Q: Are PFAS banned from all packaging?**
+
+Intentionally added PFAS are prohibited. Food packaging that has relied on PFAS coatings for grease or moisture resistance — paper straws, single-use food containers — must transition to compliant alternatives before the August deadline.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 **References**
 - [Herald Korea, "Hansol Paper Presents PPWR Response Strategy" (April 22, 2026)](https://heraldk.com/2026/04/22/%ED%95%9C%EC%86%94%EC%A0%9C%EC%A7%80-8%EC%9B%94-%EC%8B%9C%ED%96%89-%E2%80%98%EC%9C%A0%EB%9F%BD-%ED%8F%AC%EC%9E%A5%EA%B7%9C%EC%A0%9C%E2%80%99-%EB%8C%80%EC%9D%91%EC%A0%84%EB%9E%B5-%EC%A0%9C%EC%8B%9C/)
 - [Greenberg Traurig, "EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce" (2025)](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)

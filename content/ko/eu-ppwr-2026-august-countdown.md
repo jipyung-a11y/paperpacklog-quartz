@@ -56,6 +56,24 @@ EU에 제품을 수출하는 국내 식품·제조·유통 기업들은 PPWR 대
 
 8월 12일까지 남은 시간은 약 3개월. 서류 준비와 소재 전환에는 최소 수 개월이 소요되는 만큼, 대응이 늦어질수록 유럽 바이어의 발주 취소 위험이 커진다.
 
+## 자주 묻는 질문
+
+**Q: PPWR이 정확히 언제부터 시행되나요?**
+
+EU PPWR(2025/40)은 2025년 2월 11일 발효됐고, 핵심 의무 조항이 **2026년 8월 12일**부터 본격 적용됩니다. 이날 이후 EU 시장에 출시되는 포장재는 PPWR 요건 충족이 의무입니다.
+
+**Q: 적합성 선언서(DoC)는 누가 작성해야 하나요?**
+
+EU 시장에 포장된 제품을 출시하는 제조업체나 수입업자가 작성·보관해야 합니다. 소재 공급사와 협의해 기술문서(TD)를 함께 준비해야 하므로, 공급망 전체의 협업이 필수입니다.
+
+**Q: PFAS는 모든 포장재에서 금지되나요?**
+
+의도적으로 첨가된 PFAS가 금지됩니다. 방수·방유 코팅에 PFAS를 사용해온 일부 식품 포장재(예: 종이 빨대, 일회용 식품 용기)는 8월 시행 전 대안 소재로 전환이 필요합니다.
+
+## 작성자 소개
+
+**PackingMaster** — 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 매주 모아 정리합니다.
+
 **참고 자료**
 - [헤럴드코리아, "한솔제지, 8월 시행 '유럽 포장규제' 대응전략 제시" (2026.04.22)](https://heraldk.com/2026/04/22/%ED%95%9C%EC%86%94%EC%A0%9C%EC%A7%80-8%EC%9B%94-%EC%8B%9C%ED%96%89-%E2%80%98%EC%9C%A0%EB%9F%BD-%ED%8F%AC%EC%9E%A5%EA%B7%9C%EC%A0%9C%E2%80%99-%EB%8C%80%EC%9D%91%EC%A0%84%EB%9E%B5-%EC%A0%9C%EC%8B%9C/)
 - [Greenberg Traurig, "EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce" (2025)](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)

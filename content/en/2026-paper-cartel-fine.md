@@ -48,6 +48,24 @@ The fine lands as the paper industry already faces compounding pressure: pulp pr
 
 The KFTC described the action as a clear warning against using raw material cost increases as cover for coordinated pricing. The six firms now face not only penalty payments but a comprehensive review of how they set and communicate prices going forward.
 
+## FAQ
+
+**Q: How much did printing paper prices rise during the cartel period?**
+
+Prices rose by an average of 71% from February 2021 through December 2024 — about three years and ten months. During that time the six companies met more than 60 times and reached seven separate price-increase agreements.
+
+**Q: Which company received the largest fine?**
+
+Hansol Paper, with ₩142.58 billion. The other fines: Moorim P&P ₩91.96B, Korea Paper ₩49.06B, Moorim Paper ₩45.85B, Hongwon Paper ₩8.54B, and Moorim SP ₩347M.
+
+**Q: Will paper prices come back down after the ruling?**
+
+The KFTC issued a price re-determination order, but pulp prices, the weak won (₩1,500/USD), and 30%+ container freight increases mean a sharp decline is structurally unlikely in the short term.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 **References**
 - [Kookmin Ilbo, "Printing Paper Prices Up 71% — Six Paper Companies Hit With ₩338.3B Fines for Cartel" (April 23, 2026)](https://www.kmib.co.kr/article/view.asp?arcid=0029724245&code=61141111&sid1=eco)
 - [Herald Economy, "Why Printing Paper Jumped 71% — Six Paper Companies' Collusion" (April 23, 2026)](https://biz.heraldcorp.com/article/10724218)

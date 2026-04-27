@@ -52,6 +52,24 @@ Asia Paper's Sejong plant resumed output on April 20, which should gradually eas
 
 This episode has exposed the fragility of Korea's corrugated supply chain — and the interconnected consequences when industrial safety and supply resilience are both under stress at the same time.
 
+## FAQ
+
+**Q: Why did corrugated base paper inventory drop by 40%?**
+
+Two major production sites went offline in quick succession: Korea Export Packaging's Osan plant after a February fire, and Asia Paper's Sejong plant under a work-suspension order following a March worker fatality. Together they account for a substantial share of domestic supply.
+
+**Q: How long will price pressure persist?**
+
+Asia Paper's Sejong plant resumed production on April 20, but Korea Export Packaging's Osan plant requires several more months to recover. Upward pricing pressure is likely to continue at least through the first half of 2026.
+
+**Q: Will this crisis affect end consumers?**
+
+Yes. Corrugated boxes are heavily used in parcel delivery and food/beverage industries, so cost increases will progressively pass through to consumer prices for packaged food and household goods.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 **References**
 - The Public (더퍼블릭), "Middle East Risk Meets Fire and Accident — A Double Shock for Corrugated Supply" (2026)
 - 1Economy News, "Another Fatality at Asia Paper — Eight Months Later" (2026)

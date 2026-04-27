@@ -77,6 +77,24 @@ EU PPWR(8월 시행)을 의식한 글로벌 브랜드들의 요구가 중국 공
 
 WEPACK 2026의 다음 행사는 2027년에 다시 선전에서 열릴 예정이다. 한국 종이 포장재 기업들의 적극적 참가 검토가 권장된다.
 
+## 자주 묻는 질문
+
+**Q: WEPACK 2026의 가장 큰 특징은 무엇이었나요?**
+
+130개국 이상에서 137,157명이 참관해 사상 최대 규모를 기록한 점, 8개 동시 전시·30회 이상의 포럼이 통합 운영된 점, 그리고 신규 신설된 탄소중립 존(Carbon Neutrality Zone)이 가장 두드러졌습니다.
+
+**Q: 한국 기업이 WEPACK에서 주목해야 할 트렌드는 무엇인가요?**
+
+세 가지입니다 — 탄소중립 인증의 표준화, AI 비전 검사·로봇 자동화의 본격 도입, 그리고 EU PPWR을 의식한 글로벌 공급망의 친환경 전환 가속화입니다.
+
+**Q: WEPACK 2027 일정은 정해졌나요?**
+
+2027년에 다시 중국 선전(深圳)에서 개최될 예정입니다. 한국 종이 포장재 기업의 적극 참가 검토가 권장됩니다.
+
+## 작성자 소개
+
+**PackingMaster** — 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 매주 모아 정리합니다.
+
 **참고 자료**
 - [PR Newswire, "WEPACK 2026 Concludes on a Record High, Reinforcing China's Role at the Heart of the Global Packaging Industry" (2026.04.27)](https://www.prnewswire.com/apac/news-releases/wepack-2026-concludes-on-a-record-high-reinforcing-chinas-role-at-the-heart-of-the-global-packaging-industry-302752990.html)
 - [Pulp & Paper News, "Wepack 2026 concludes on record-breaking attendance" (2026.04.27)](https://www.pulpapernews.com/20260427/17740/wepack-2026-concludes-record-breaking-attendance)

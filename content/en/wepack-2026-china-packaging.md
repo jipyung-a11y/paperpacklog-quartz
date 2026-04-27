@@ -77,6 +77,24 @@ Across more than 30 high-level sessions, the recurring themes:
 
 WEPACK 2027 will return to Shenzhen. Korean paper packaging companies should consider participation seriously.
 
+## FAQ
+
+**Q: What was the most notable feature of WEPACK 2026?**
+
+A record 137,157 visitors from 130+ countries, eight integrated concurrent shows with 30+ high-level forums, and a newly launched Carbon Neutrality Zone — together making this WEPACK the most internationally significant edition to date.
+
+**Q: What trends should Korean companies focus on?**
+
+Three: standardization of carbon neutrality certification, real adoption of AI vision inspection and robotic automation, and accelerated eco-conversion across global supply chains anticipating EU PPWR.
+
+**Q: Is the schedule for WEPACK 2027 set?**
+
+Yes — WEPACK 2027 will return to Shenzhen, China. Korean paper packaging companies should consider participation seriously to monitor competitive trends and meet international buyers.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 **References**
 - [PR Newswire, "WEPACK 2026 Concludes on a Record High" (April 27, 2026)](https://www.prnewswire.com/apac/news-releases/wepack-2026-concludes-on-a-record-high-reinforcing-chinas-role-at-the-heart-of-the-global-packaging-industry-302752990.html)
 - [Pulp & Paper News, "Wepack 2026 concludes on record-breaking attendance" (April 27, 2026)](https://www.pulpapernews.com/20260427/17740/wepack-2026-concludes-record-breaking-attendance)

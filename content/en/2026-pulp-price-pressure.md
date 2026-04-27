@@ -56,6 +56,24 @@ Alternative levers being discussed include:
 
 International pulp prices are expected to keep climbing through Q2 2026. Currency stability depends on US Federal Reserve policy and the trajectory of Middle East tensions — neither of which suggests near-term relief. Korea's paper industry is moving into a period where survival depends on absorbing external shocks while restructuring at the same time.
 
+## FAQ
+
+**Q: Why does a pulp price increase hit Korean paper makers harder?**
+
+With the partial exception of Moorim P&P, which sources some pulp internally, every other major Korean producer relies entirely on imports. Global price moves pass into local cost without delay or buffer.
+
+**Q: What share of paper manufacturing cost does pulp represent?**
+
+For printing and industrial paper grades, pulp accounts for more than 50% of the cost. A USD 100/ton swing translates directly to margin movement — there is no cushion.
+
+**Q: How does FX affect pulp prices for Korean buyers?**
+
+Pulp imports are priced and settled in US dollars. With the won at around ₩1,500/USD, the same shipment costs significantly more in won terms — combining material price increases with currency depreciation as a double hit.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 **References**
 - [Herald Economy, "Logistics, Pulp, Energy Costs Plus Fines — Paper Companies Face a Gloomy 2026" (2026)](https://biz.heraldcorp.com/article/10724545)
 - [Herald Economy, "Logistics, Materials, Fines — Paper Industry Looking at Operating Losses" (2026)](https://biz.heraldcorp.com/article/10726232)

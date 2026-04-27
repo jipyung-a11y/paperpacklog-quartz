@@ -60,6 +60,24 @@ With PPWR's full application arriving in August 2026, European brand owners will
 
 2025 will be remembered as the year packaging's relationship with sustainability shifted from aspiration to obligation.
 
+## FAQ
+
+**Q: How does EU PPWR affect Korean exporters?**
+
+From August 12, 2026, packaging used for products entering the EU must comply with PPWR requirements (Declaration of Conformity, recyclability grading). Non-compliant packaging cannot enter the EU market. Industries with high EU revenue exposure — food, electronics, cosmetics — need to act quickly.
+
+**Q: Will the paper packaging market really keep growing?**
+
+Paper and paperboard packaging is forecast to grow at 4.63% CAGR, reaching USD 547.5 billion by 2031. Eco-regulation tightening and e-commerce demand growth are the primary drivers.
+
+**Q: Why does the recycled-to-virgin fiber ratio matter?**
+
+Recycled fiber loses mechanical strength after roughly seven use cycles. Producers typically blend 20–30% virgin long fiber to maintain burst and puncture strength.
+
+## About the Author
+
+**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+
 ## Sources
 
 - [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035 — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
