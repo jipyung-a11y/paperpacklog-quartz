@@ -1,0 +1,63 @@
+---
+title: "EU PPWR 8월 12일 D-100 — 한국 수출 기업이 지금 당장 준비해야 할 것들"
+date: 2026-04-27T08:28:00+09:00
+draft: false
+tags: ["PPWR", "EU규제", "친환경포장", "수출", "포장규정", "적합성선언"]
+categories: ["해외"]
+summary: "2026년 8월 12일, EU 포장재 및 포장폐기물 규정(PPWR)이 본격 적용된다. 미충족 시 EU 수출이 불가능해지는 이 규제의 핵심 내용과 국내 기업 대응 현황을 정리한다."
+translationKey: "eu-ppwr-2026-august-countdown"
+cover:
+  image: ../images/posts/eu-ppwr-2026-august-countdown/cover.png
+  alt: "EU PPWR 2026 시행"
+  relative: false
+---
+
+2026년 8월 12일은 유럽 수출 포장재를 다루는 모든 기업이 표시해둬야 할 날이다. EU의 새로운 포장재 규정 **PPWR(Packaging and Packaging Waste Regulation, 2025/40)**이 이날부터 본격 적용되며, 기준을 충족하지 못한 포장재는 EU 시장에 진입할 수 없게 된다.
+
+## PPWR이란?
+
+PPWR은 기존 지침(Directive 94/62/EC)을 대체하는 EU 규정(Regulation)이다. 지침과 달리 규정은 각 회원국이 국내법으로 전환하지 않아도 즉시 적용되기 때문에, 영향 범위와 강제력이 훨씬 강력하다.
+
+2025년 2월 11일 발효돼 전환 기간을 거친 후, **2026년 8월 12일부터** 주요 의무가 순차적으로 적용된다.
+
+![EU PPWR 주요 규제 내용 및 일정](../images/posts/eu-ppwr-2026-august-countdown/img-01.png)
+
+## 8월 12일부터 달라지는 핵심 내용
+
+### 1. 적합성 선언서(DoC) + 기술문서(TD) 의무화
+EU 시장에 유통되는 모든 포장재에 대해 **적합성 선언서(Declaration of Conformity)**와 **기술문서(Technical Documentation)**를 작성하고 보관해야 한다. 이를 통해 해당 포장재가 PPWR의 모든 요건을 충족함을 공식적으로 입증해야 한다.
+
+### 2. PFAS 함유 규제
+포장재에 잔류성 유기불소화합물(PFAS)을 의도적으로 첨가하는 것이 금지된다. 방수·방유 목적으로 PFAS 코팅을 사용해온 일부 식품 포장재는 대안 소재 전환이 필요하다.
+
+### 3. 이커머스 포장 빈 공간 규제
+그룹 포장·운송 포장·이커머스 포장의 빈 공간(dead space)을 전체 부피의 **40% 이내**로 제한한다. 과도한 완충재나 빈 공간을 채워 보내는 관행은 규제 대상이 된다.
+
+### 4. 2030년까지 재사용·재활용 의무
+2030년까지 EU 시장에 출시되는 모든 포장재는 **기술적·경제적으로 재사용 또는 재활용이 가능**해야 한다. 재활용성 최고 등급인 'A 등급'을 목표로 소재 전환이 권장된다.
+
+## 한국 기업의 현주소
+
+### EU 수출 기업의 위기감
+EU에 제품을 수출하는 국내 식품·제조·유통 기업들은 PPWR 대응에 적합한 소재를 찾지 못해 어려움을 겪고 있다. 특히 중소 수출업체들은 대기업에 비해 협상력이 낮고 대안 확보에 한계가 있어 더 큰 부담을 느끼고 있다.
+
+### 업계 대응 움직임
+한솔제지는 최근 CJ대한통운·롯데웰푸드·GS리테일·오뚜기 등 주요 고객사 60여명을 초청해 'PPWR 대응 기술세미나'를 개최했다. 세미나에서는 재활용성 A등급을 충족하는 2차포장재와 방수성 포장재 등 친환경 솔루션을 소개했다.
+
+![PPWR 대응을 위한 친환경 포장소재 전환 현장](../images/posts/eu-ppwr-2026-august-countdown/img-02.png)
+
+## 지금 당장 해야 할 체크리스트
+
+- **포장재 목록 작성**: EU 수출용 포장재 전수 조사
+- **PFAS 함유 여부 확인**: 방수·방유 코팅 소재 성분 검토
+- **적합성 선언서 준비**: 소재 공급사와 협의해 DoC 작성 착수
+- **재활용성 등급 확인**: 현재 사용 포장재의 재활용성 수준 파악
+- **대체 소재 테스트**: A등급 충족 소재로의 전환 여부 검토
+
+8월 12일까지 남은 시간은 약 3개월. 서류 준비와 소재 전환에는 최소 수 개월이 소요되는 만큼, 대응이 늦어질수록 유럽 바이어의 발주 취소 위험이 커진다.
+
+**참고 자료**
+- [헤럴드코리아, "한솔제지, 8월 시행 '유럽 포장규제' 대응전략 제시" (2026.04.22)](https://heraldk.com/2026/04/22/%ED%95%9C%EC%86%94%EC%A0%9C%EC%A7%80-8%EC%9B%94-%EC%8B%9C%ED%96%89-%E2%80%98%EC%9C%A0%EB%9F%BD-%ED%8F%AC%EC%9E%A5%EA%B7%9C%EC%A0%9C%E2%80%99-%EB%8C%80%EC%9D%91%EC%A0%84%EB%9E%B5-%EC%A0%9C%EC%8B%9C/)
+- [Greenberg Traurig, "EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce" (2025)](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
+- [전국인력신문, "EU 포장재 규제 강화, 한국 기업 긴장" (2026)](https://www.kjob.news/news/480082)
+- [KATI 농식품수출정보, "유럽 친환경 포장재 관련 규정 개정안"](https://www.kati.net/board/exportNewsView.do?board_seq=100549&menu_dept2=35&menu_dept3=71)
