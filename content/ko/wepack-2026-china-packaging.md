@@ -1,0 +1,84 @@
+---
+title: "WEPACK 2026 결산 — 137,157명이 모인 글로벌 종이 포장 격전지, 선전"
+date: 2026-04-28T07:30:00+09:00
+draft: false
+tags: ["WEPACK", "전시회", "중국", "포장산업", "탄소중립", "자동화"]
+categories: ["해외"]
+summary: "중국 선전에서 열린 WEPACK 2026이 사상 최대 규모인 137,157명 참관 기록으로 폐막했다. 골판지·접지 카톤·라벨·자동화·탄소중립 등 종이 포장 산업의 가장 뜨거운 흐름을 한자리에서 보여준 행사를 정리한다."
+translationKey: "wepack-2026-china-packaging"
+cover:
+  image: ../images/posts/wepack-2026-china-packaging/cover.png
+  alt: "WEPACK 2026 선전 전시장"
+  relative: false
+---
+
+2026년 4월, 중국 선전(深圳) 월드 전시 컨벤션 센터에서 열린 **WEPACK 2026**이 역대 최대 규모로 막을 내렸다. 130개 이상 국가에서 13만 명을 훌쩍 넘는 참관객이 몰리며, 글로벌 종이 포장 산업의 무게중심이 어디에 있는지 다시 확인시켜준 행사였다.
+
+## 숫자로 본 WEPACK 2026
+
+- **참관객 수**: 총 **137,157명** (방문 횟수 기준 158,659회)
+- **해외 참관객**: 13,598명 (방문 19,682회)
+- **참여 국가/지역**: 130여 개국
+- **동시 전시회**: 8개 통합 전시
+- **고위급 포럼**: 30회 이상
+
+특히 해외 참관객 1만3천 명 돌파는 중국 단일 패키징 행사로는 이례적인 규모로, "중국 박람회"가 아닌 "글로벌 박람회"로의 전환점을 보여줬다는 평가를 받는다.
+
+![WEPACK 2026 선전 전시장 전경](../images/posts/wepack-2026-china-packaging/img-01.png)
+
+## 전시 구성: 종이 포장의 풀 스택
+
+WEPACK 2026은 8개의 동시 전시를 하나로 통합한 행사다. 한 자리에서 다음 영역 모두를 볼 수 있다는 점이 차별화 포인트였다.
+
+| 영역 | 내용 |
+|------|------|
+| 원지·소재 | 골판지 원지, 크라프트지, 친환경 펄프 소재 |
+| 가공 장비 | 코러게이터, 슬리터, 다이컷 |
+| 인쇄 기술 | 디지털 인쇄, 잉크젯, 오프셋 |
+| 완제품 | 골판지 박스, 접지 카톤, 기프트 박스, 종이백 |
+| 라벨 | 라벨 인쇄, 자가 접착 라벨 |
+| 자동화 | AI 비전 검사, 로봇 팔레타이징 |
+| 시스템 | MES, WMS, 물류 자동화 |
+
+## 핵심 트렌드 1 — 탄소중립 본격화
+
+이번 행사의 가장 두드러진 변화는 **탄소중립 존(Carbon Neutrality Zone)** 신설이었다. 폴딩 카톤(접지 카톤) 쇼에서는 **'중국 패키징 탄소발자국 백서(China Packaging Carbon Footprint White Paper)'**가 공식 공개됐다. 이는 중국 내 패키징 기업이 탄소 배출을 측정하고 줄이는 데 활용할 수 있는 가이드라인이다.
+
+EU PPWR(8월 시행)을 의식한 글로벌 브랜드들의 요구가 중국 공급망에도 빠르게 침투하고 있다는 신호로 읽힌다. 재활용 가능 소재 비중, 재생 섬유 함량, 탄소 인증이 상시 평가 항목으로 자리잡는 분위기다.
+
+## 핵심 트렌드 2 — 자동화·AI의 본격 진입
+
+새로 등장한 **고부가 장비·자동화 존**도 주목받았다. 핵심 기술은 다음과 같다:
+
+- **AI 비전 검사** — 인쇄 결함, 골판지 균열, 라벨 부착 오류 자동 검출
+- **로봇 팔레타이징** — 박스 적재 자동화로 야간 무인 운영 가능
+- **MES/WMS 통합** — 생산 실적과 창고 재고를 실시간 연동
+- **디지털 인쇄 라인** — 다품종 소량 생산용 단납기 대응
+
+중국·동남아의 인건비 상승과 한국·일본의 인력난이 맞물리며, **"자동화 안 하면 마진이 안 나오는 시대"**가 이미 시작됐다는 분위기였다.
+
+![자동화 로봇과 AI 비전 검사 시스템](../images/posts/wepack-2026-china-packaging/img-02.png)
+
+## 핵심 트렌드 3 — 30회+ 포럼이 다룬 주제
+
+부대 행사로 열린 30회 이상의 고위급 포럼에서는 다음 주제가 집중적으로 논의됐다:
+
+- **펄프·페이퍼보드 시장 전망** — 2026~2027 가격·수급
+- **지속가능성 인증 체계** — FSC, PEFC, EU PPWR 대응
+- **디지털 트랜스포메이션** — 종이 산업의 IT 전환
+- **라벨 시장 전망** — 디지털 라벨, 스마트 라벨, RFID 통합
+
+## 한국 기업이 주목해야 할 시사점
+
+1. **EU PPWR 시행 임박** → 친환경 인증·탄소 데이터 의무화는 더 이상 선택이 아니다.
+2. **자동화 격차** → 한국 중소 제지·포장 업체의 자동화 수준이 중국·동남아에 뒤처질 위험.
+3. **수출 시장 다변화** → 중국 패키징 산업의 글로벌 진출이 가속화되는 만큼, 한국은 친환경·고부가 차별화 전략 필요.
+4. **B2B 전시회의 재발견** — 디지털 마케팅 시대에도 오프라인 박람회가 여전히 글로벌 바이어 발굴의 핵심 채널임을 재확인.
+
+WEPACK 2026의 다음 행사는 2027년에 다시 선전에서 열릴 예정이다. 한국 종이 포장재 기업들의 적극적 참가 검토가 권장된다.
+
+**참고 자료**
+- [PR Newswire, "WEPACK 2026 Concludes on a Record High, Reinforcing China's Role at the Heart of the Global Packaging Industry" (2026.04.27)](https://www.prnewswire.com/apac/news-releases/wepack-2026-concludes-on-a-record-high-reinforcing-chinas-role-at-the-heart-of-the-global-packaging-industry-302752990.html)
+- [Pulp & Paper News, "Wepack 2026 concludes on record-breaking attendance" (2026.04.27)](https://www.pulpapernews.com/20260427/17740/wepack-2026-concludes-record-breaking-attendance)
+- [Stocktitan, "WEPACK 2026 Draws 137,157 Visitors From 130 Countries"](https://www.stocktitan.net/news/RELX/wepack-2026-concludes-on-a-record-high-reinforcing-china-s-role-at-lgwac7vxt23m.html)
+- [WEPACK 공식 사이트](https://www.wepack-expo.com/en-gb.html)
