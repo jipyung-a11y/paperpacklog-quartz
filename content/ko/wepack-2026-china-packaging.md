@@ -11,6 +11,8 @@ cover:
   alt: "WEPACK 2026 선전 전시장"
   relative: false
 ---
+![WEPACK 2026 선전 전시장](../images/posts/wepack-2026-china-packaging/cover.png)
+
 
 2026년 4월, 중국 선전(深圳) 월드 전시 컨벤션 센터에서 열린 **WEPACK 2026**이 역대 최대 규모로 막을 내렸다. 130개 이상 국가에서 13만 명을 훌쩍 넘는 참관객이 몰리며, 글로벌 종이 포장 산업의 무게중심이 어디에 있는지 다시 확인시켜준 행사였다.
 

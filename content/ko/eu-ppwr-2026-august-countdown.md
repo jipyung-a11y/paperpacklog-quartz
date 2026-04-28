@@ -11,6 +11,8 @@ cover:
   alt: "EU PPWR 2026 시행"
   relative: false
 ---
+![EU PPWR 2026 시행](../images/posts/eu-ppwr-2026-august-countdown/cover.png)
+
 
 2026년 8월 12일은 유럽 수출 포장재를 다루는 모든 기업이 표시해둬야 할 날이다. EU의 새로운 포장재 규정 **PPWR(Packaging and Packaging Waste Regulation, 2025/40)**이 이날부터 본격 적용되며, 기준을 충족하지 못한 포장재는 EU 시장에 진입할 수 없게 된다.
 

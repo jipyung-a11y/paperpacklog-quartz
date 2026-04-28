@@ -11,6 +11,8 @@ cover:
   alt: "2025 Global Packaging Industry in Review"
   relative: false
 ---
+![2025 Global Packaging Industry in Review](../images/posts/2025-global-packaging-industry-review/cover.png)
+
 
 2025 was not a quiet year for the global packaging industry. The largest regulatory framework in the sector's history took effect. E-commerce demand kept pushing supply to its limits. And cost pressures were sharper than any year in recent memory. Let's start with the numbers.
 

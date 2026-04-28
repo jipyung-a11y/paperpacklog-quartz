@@ -11,6 +11,8 @@ cover:
   alt: "Paper angle board product photo"
   relative: false
 ---
+![Paper angle board product photo](../images/posts/paper-angle-board-guide/cover.png)
+
 
 Something stands between your shipment and the damage caused by strapping pressure, stacking loads, and rough handling. It looks like a simple folded strip of paper — but the paper angle board simultaneously solves edge protection and load distribution in one lightweight, recyclable piece.
 

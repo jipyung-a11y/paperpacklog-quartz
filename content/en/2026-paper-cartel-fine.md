@@ -11,6 +11,8 @@ cover:
   alt: "Korea paper cartel fine"
   relative: false
 ---
+![Korea paper cartel fine](../images/posts/2026-paper-cartel-fine/cover.png)
+
 
 In April 2026, the Korea Fair Trade Commission (KFTC) delivered the largest-ever penalty to the domestic paper industry: a **₩338.3 billion (approximately USD 244 million)** combined fine against six paper manufacturers found guilty of coordinating printing paper prices over a period of nearly four years.
 

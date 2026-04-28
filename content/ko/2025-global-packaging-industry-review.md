@@ -11,6 +11,8 @@ cover:
   alt: "2025년 전세계 포장 산업 회고"
   relative: false
 ---
+![2025년 전세계 포장 산업 회고](../images/posts/2025-global-packaging-industry-review/cover.png)
+
 
 2025년 글로벌 포장 산업은 조용하지 않았다. 역대 최대 규모의 규제가 발효되었고, e커머스발 수요가 공급을 밀어붙였으며, 원가 압박은 어느 해보다 거셌다. 숫자로 먼저 보자.
 

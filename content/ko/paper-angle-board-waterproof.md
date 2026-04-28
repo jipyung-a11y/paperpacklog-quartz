@@ -11,6 +11,8 @@ cover:
   alt: "방수 종이앵글 — 폴리·왁스 코팅 단면"
   relative: false
 ---
+![방수 종이앵글 — 폴리·왁스 코팅 단면](../images/posts/paper-angle-board-waterproof/cover.png)
+
 
 방수 종이앵글이란 표면에 방수·방습 코팅을 추가해 고습 환경에서도 강도와 형태를 유지하도록 만든 종이앵글이다. 일반 종이앵글이 V자 적층 구조로 압축 강도를 확보한다면, 방수형은 거기에 한 겹의 코팅을 더해 **물·습기·결로**라는 종이의 약점을 보완한다.
 
@@ -62,6 +64,62 @@ cover:
 - **특징**: 수성·플루오린 프리, 식물성 오일 기반(일부)
 - **장점**: **재펄프화(repulpable) 가능 → 일반 재활용 가능**, MOSH/MOAH 등 유해물질 없음
 - **단점**: 가격이 PE·왁스 대비 높음, 공급사가 한정적
+
+## "완전 방수"란? — 초소수성과 학술 연구 동향
+
+업계에서 "완전 방수"라는 표현이 자주 쓰이지만, 학술적·산업적으로 정량 기준이 따로 존재한다. 두 가지 측정 방법이 표준이다.
+
+### 측정 1 — 접촉각(Water Contact Angle, WCA)
+
+물방울이 표면에 떨어졌을 때 형성하는 각도를 측정한다.
+
+| 분류 | 접촉각 | 특성 |
+|------|-------|------|
+| 친수성 (Hydrophilic) | < 90° | 물이 빠르게 스며듦 |
+| 소수성 (Hydrophobic) | 90° ~ 150° | 물방울이 맺히고 천천히 스며듦 |
+| **초소수성 (Superhydrophobic)** | **> 150°** | **물방울이 구르듯 흘러내림 (자가 세정)** |
+
+일반 PE 코팅 종이앵글의 접촉각은 약 90~110° 범위로 "소수성" 영역에 속한다. **"완전 방수"라 부를 수 있는 초소수성은 150° 이상**이며, 이는 일반 코팅으로는 도달하기 어렵다.
+
+### 측정 2 — Cobb 테스트 (ISO 535)
+
+고정 면적에 일정 시간(보통 60초) 물을 접촉시킨 후 흡수된 물의 양(g/m²)을 측정하는 표준법이다. 값이 낮을수록 방수성이 우수하다.
+
+| 분류 | Cobb60 값 |
+|------|-----------|
+| 일반 종이 | 25~30 g/m² |
+| 일반 방수(PE/왁스) 종이앵글 | 5~15 g/m² |
+| 초소수성 코팅 종이 (학술 연구) | < 10 g/m² |
+
+### 학술 연구 동향 — 나노셀룰로오스 + 자가 복구
+
+최근 학계에서는 나노셀룰로오스 기반 초소수성 코팅 연구가 활발하다.
+
+- **Scientific Reports (2025)** — 나노셀룰로오스 + 4차 암모늄 실란 + PCC 코팅으로 접촉각 150° 이상, Cobb60 24.45 g/m² 달성. 항균성도 동시 확보
+- **Nano-silica + 마이크로피브릴화 셀룰로오스** (PubMed, 2022) — 고강도 + 초소수성을 동시 만족하는 다층 종이 개발
+- **자가 복구 셀룰로오스 페이퍼** (ScienceDirect, 2025) — 접촉각 156°, 손상 후 표면이 자가 복구돼 고습 환경 포장에 적용 가능
+- **SF6 플라즈마 코팅** (PMC) — 크라프트지에 플루오린 플라즈마를 처리해 코팅 첨가물 없이 소수성 부여
+- **PVA + 나노셀룰로오스 + AKD 복합 코팅** (Scientific Reports) — 물·기름·grease 동시 차단 (식품 포장 적용 가능)
+
+### 학술 단계와 상업 단계의 격차
+
+학술 연구는 접촉각 150° 이상을 안정적으로 달성하지만, 종이앵글 같은 산업 양산 제품에서 초소수성을 구현하기에는 다음 한계가 있다.
+
+1. **단가** — 나노셀룰로오스·플라즈마 처리는 양산 단가 대비 5~10배 높음
+2. **내구성** — 마찰·스트레칭에 코팅이 벗겨지면 효과 즉시 손실
+3. **재활용성** — 일부 초소수성 코팅(불소화합물 기반)은 재펄프화 어려움
+4. **인증** — 식품 직접 접촉용은 별도 안전성 인증 필요
+
+따라서 현재 시장에서 통용되는 "완전 방수 종이앵글"은 사실상 **PE 또는 다층 베리어 코팅 + 충분한 두께**로 구현된 제품을 의미한다. 진정한 초소수성 종이앵글은 향후 5~10년 내 본격 상용화가 기대되는 영역이다.
+
+### 어디까지가 충분한 방수인가
+
+대부분의 산업 응용에는 **접촉각 110° + Cobb60 10g/m² 이하** 수준이면 충분하다. 다음과 같은 극한 환경에서만 초소수성이 필요하다.
+
+- 직접 물 접촉이 빈번한 농산물·수산물 포장
+- 항해 중 침수 위험이 있는 선창 화물
+- 옥외 임시 보관이 잦은 건자재
+- 다회 사용을 전제한 리유저블 포장
 
 ## 산업별 적용 가이드
 
@@ -124,3 +182,8 @@ EU PPWR(2026년 8월 시행)과 국내 1회용 플라스틱 규제 강화로, �
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)
 - [Solenis, "Eco-Friendly Barrier Coatings for Paper Packaging"](https://www.solenis.com/en/destination/sustainable-paper-packaging/)
 - [Cortec Packaging, "EcoShield Barrier Coating for Paper and Corrugated"](https://www.cortecpackaging.com/product/ecoshield-barrier-coating-for-paper-and-corrugated/)
+- [Scientific Reports (Nature), "Surface-coated paper packaging with nanocellulose modified with quaternary ammonium organosilane and precipitated calcium carbonate" (2025)](https://www.nature.com/articles/s41598-025-10306-5)
+- [PubMed, "High-strength and super-hydrophobic multilayered paper based on nano-silica coating and micro-fibrillated cellulose" (2022)](https://pubmed.ncbi.nlm.nih.gov/35450633/)
+- [ScienceDirect, "A superhydrophobic, self-healing, and recyclable cellulose paper based on a dynamically cross-linked interface" (2025)](https://www.sciencedirect.com/science/article/abs/pii/S2214993725003975)
+- [PMC, "Effect of Water-Resistant Properties of Kraft Paper Using SF6 Plasma Coating"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9506043/)
+- [Measurlabs, "Cobb Water Absorption Test (ISO 535)"](https://measurlabs.com/products/paper-cardboard-water-absorptiveness-cobb/)

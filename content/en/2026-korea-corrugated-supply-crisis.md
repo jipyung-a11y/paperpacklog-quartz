@@ -11,6 +11,8 @@ cover:
   alt: "Corrugated base paper supply crisis 2026"
   relative: false
 ---
+![Corrugated base paper supply crisis 2026](../images/posts/2026-korea-corrugated-supply-crisis/cover.png)
+
 
 Korea's packaging industry absorbed an unusual supply shock in the first half of 2026. Corrugated base paper — the raw material inside every cardboard box — fell to roughly half its normal inventory level. The trigger: two major production facilities went offline in quick succession due to a fire and a workplace fatality, just as Middle East tensions added pressure from the raw-material side.
 

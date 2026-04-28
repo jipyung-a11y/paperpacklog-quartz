@@ -11,6 +11,8 @@ cover:
   alt: "Pulp price surge and Korean paper industry pressure"
   relative: false
 ---
+![Pulp price surge and Korean paper industry pressure](../images/posts/2026-pulp-price-pressure/cover.png)
+
 
 In 2026, Korea's paper industry is taking pressure from four directions at once. The cost of pulp — the core raw material — has climbed back toward record territory. The won has weakened against the dollar, ocean freight rates have jumped, and a record antitrust fine landed in April. Each pressure on its own would be manageable. Combined, they are reshaping the industry's outlook for the year.
 

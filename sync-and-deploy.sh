@@ -16,12 +16,25 @@ cp "$HUGO_DIR"/content/ko/posts/*.md content/ko/
 cp "$HUGO_DIR"/content/en/posts/*.md content/en/
 cp -R "$HUGO_DIR"/static/images/posts content/images/
 
-echo "▶ 2/5 이미지 경로 변환 (/images/ → ../images/)"
+echo "▶ 2/5 이미지 경로 변환 + cover 본문 주입 (Quartz용)"
 python3 <<'PY'
-import glob
+import glob, re
 for p in glob.glob('content/**/*.md', recursive=True):
     with open(p) as f: t = f.read()
     n = t.replace('](/images/posts/', '](../images/posts/').replace('image: /images/posts/', 'image: ../images/posts/')
+    # frontmatter에서 cover 정보 추출
+    fm_match = re.match(r'^---\n(.*?)\n---\n', n, re.DOTALL)
+    if fm_match:
+        fm = fm_match.group(1)
+        cover_match = re.search(r'cover:\s*\n\s*image:\s*([^\s\n]+)\s*\n\s*alt:\s*"([^"]+)"', fm)
+        if cover_match:
+            cover_path = cover_match.group(1)
+            cover_alt = cover_match.group(2)
+            cover_md = f'![{cover_alt}]({cover_path})\n\n'
+            # 본문 시작에 이미 같은 cover가 있는지 확인
+            body_start = fm_match.end()
+            if cover_path not in n[body_start:body_start+500]:
+                n = n[:body_start] + cover_md + n[body_start:]
     if n != t:
         open(p, 'w').write(n)
 PY

@@ -11,6 +11,8 @@ cover:
   alt: "EU PPWR 2026 implementation"
   relative: false
 ---
+![EU PPWR 2026 implementation](../images/posts/eu-ppwr-2026-august-countdown/cover.png)
+
 
 August 12, 2026 is a date every exporter shipping packaged goods into the European Union needs to have circled on the calendar. That is when the **Packaging and Packaging Waste Regulation (PPWR, EU 2025/40)** enters full application — and packaging that does not comply cannot legally enter the EU market.
 

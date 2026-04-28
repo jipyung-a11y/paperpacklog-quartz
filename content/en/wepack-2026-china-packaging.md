@@ -11,6 +11,8 @@ cover:
   alt: "WEPACK 2026 Shenzhen exhibition floor"
   relative: false
 ---
+![WEPACK 2026 Shenzhen exhibition floor](../images/posts/wepack-2026-china-packaging/cover.png)
+
 
 WEPACK 2026 wrapped up in late April at the Shenzhen World Exhibition & Convention Center, setting a new attendance record with more than 13,000 international visitors from over 130 countries. The result reaffirms that the center of gravity for global paper packaging — both demand and innovation — sits firmly in China.
 
