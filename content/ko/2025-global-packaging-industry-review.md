@@ -85,6 +85,6 @@ PPWR 본격 적용(2026년 8월)을 앞두고 올해 유럽 브랜드사들의 �
 - [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035: GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
 - [Paper and Paperboard Packaging Market: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-paper-and-paperboard-packaging-market)
 - [Corrugated Board Packaging Market Size & Share: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/corrugated-board-packaging-market)
-- [EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce: Greenberg Traurig](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
+- [European Commission Publishes Final PPWR Guidance in Advance of August 2026 Application Date: Packaging Law](https://www.packaginglaw.com/news/european-commission-publishes-final-ppwr-guidance-advance-august-2026-application-date) <!-- pub: 2026-03-30 -->
 - [EU PPWR – Packaging and Packaging Waste Regulation: business.gov.uk](https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-packaging-and-packaging-waste-regulation-eu-ppwr/)
-- [Packaging Industry Statistics & Market Trends (2025): Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics)
+- [Packaging Industry Statistics & Market Trends (2025-11-26): Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics) <!-- pub: 2025-11-26 -->

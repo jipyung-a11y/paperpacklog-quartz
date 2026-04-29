@@ -78,6 +78,6 @@ Intentionally added PFAS are prohibited. Food packaging that has relied on PFAS 
 
 **References**
 - [Herald Korea, "Hansol Paper Presents PPWR Response Strategy" (April 22, 2026)](https://heraldk.com/2026/04/22/%ED%95%9C%EC%86%94%EC%A0%9C%EC%A7%80-8%EC%9B%94-%EC%8B%9C%ED%96%89-%E2%80%98%EC%9C%A0%EB%9F%BD-%ED%8F%AC%EC%9E%A5%EA%B7%9C%EC%A0%9C%E2%80%99-%EB%8C%80%EC%9D%91%EC%A0%84%EB%9E%B5-%EC%A0%9C%EC%8B%9C/)
-- [Greenberg Traurig, "EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce" (2025)](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
-- [KJob News, "EU Packaging Regulation Tightens, Korean Companies on Alert" (2026)](https://www.kjob.news/news/480082)
-- [KATI Food Export Info, "European Eco-Friendly Packaging Regulation Amendment"](https://www.kati.net/board/exportNewsView.do?board_seq=100549&menu_dept2=35&menu_dept3=71)
+- [Packaging Law, "European Commission Publishes Final PPWR Guidance in Advance of August 2026 Application Date" (2026-03-30)](https://www.packaginglaw.com/news/european-commission-publishes-final-ppwr-guidance-advance-august-2026-application-date) <!-- pub: 2026-03-30 -->
+- [KJob News, "EU Packaging Regulation Tightens, Korean Companies on Alert" (2026-04-10)](https://www.kjob.news/news/480082) <!-- pub: 2026-04-10 -->
+- [KATI Food Export Info, "[EU] PPWR Phased Enforcement Starting August 2026" (2026-02-28)](https://www.kati.net/board/exportNewsView.do?board_seq=104939&menu_dept2=35&menu_dept3=71) <!-- pub: 2026-02-28 -->

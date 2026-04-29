@@ -123,14 +123,13 @@ cover:
 
 ## 참고자료
 
-- [물류비·펄프값·에너지費에 '담합 과징금'까지…제지사들 '우울한 2026' (헤럴드경제)](https://biz.heraldcorp.com/article/10724545)
-- [물류비·원자재값·과징금…제지업체, 올해 적자 불보듯 (헤럴드경제)](https://biz.heraldcorp.com/article/10726232)
-- [박스업계 "골판지 및 백판지 제조 대기업 가격인상 행위 규탄 결의문 채택" (헤럴드경제)](https://biz.heraldcorp.com/article/10685856)
-- [박스업계 "골판지 및 백판지 제조 대기업 가격인상 행위 규탄" (매일일보)](https://www.m-i.kr/news/articleView.html?idxno=1342150)
-- [골판지값도 11%↑ '인상 릴레이' (서울경제)](https://www.sedaily.com/NewsView/268P59YSMT)
-- [중동 리스크에 화재·사고까지…골판지 공급망 '이중 충격' (더퍼블릭)](https://www.thepublic.kr/news/articleView.html?idxno=300000)
-- [골판지 원지 가격 20% 껑충…택배비도 따라오르나 (한국경제)](https://www.hankyung.com/article/2024080787981)
+- [물류비·펄프값·에너지費에 '담합 과징금'까지…제지사들 '우울한 2026' (헤럴드경제)](https://biz.heraldcorp.com/article/10724545) <!-- pub: 2026-04-24 -->
+- [물류비·원자재값·과징금…제지업체, 올해 적자 불보듯 (헤럴드경제)](https://biz.heraldcorp.com/article/10726232) <!-- pub: 2026-04-27 -->
+- [박스업계 "골판지 및 백판지 제조 대기업 가격인상 행위 규탄 결의문 채택" (헤럴드경제)](https://biz.heraldcorp.com/article/10685856) <!-- pub: 2026-03-03 -->
+- [박스업계 "골판지 및 백판지 제조 대기업 가격인상 행위 규탄" (매일일보)](https://www.m-i.kr/news/articleView.html?idxno=1342150) <!-- pub: 2026-03-03 -->
+- [중동 리스크에 화재·사고까지…골판지 공급망 '이중 충격' (더퍼블릭)](https://www.thepublic.kr/news/articleView.html?idxno=300000) <!-- pub: 2026-04-06 -->
 - ['공중전화 쓰고, 동전 던지고'…공정위, 제지 담합에 3천억 과징금 (다음뉴스)](https://v.daum.net/v/20260424064815299)
 - [제지업계, 글로벌 경기 둔화 속 실적 악화...올해는 더 어렵다 (뉴스핌)](https://www.newspim.com/news/view/20260410000924)
-- [펄프 가격 6개월 사이 25% 뛰어…제지업계 원가부담 커진다 (KTAPPI)](https://www.ktappi.or.kr/boards/notice/33562/detail/community/related-information/)
-- [제지산업동향: 전년 5월대비 물량 10.4% 감소 (물류신문)](https://www.klnews.co.kr/news/articleView.html?idxno=66232)
+- [비싸진 펄프·골판지…종이값 줄인상 우려 (한국경제)](https://www.hankyung.com/article/2026021199021)
+- [연초부터 치솟는 펄프…종이컵·택배박스 '도미노' 가격인상 가능성 (헤럴드경제)](https://biz.heraldcorp.com/article/10682848) <!-- pub: 2026-02-26 -->
+- [골판지업계, '원지-원단-박스' 도미노 가격 인상 (딜사이트)](https://dealsite.co.kr/articles/160014) <!-- pub: 2026-04-14 -->

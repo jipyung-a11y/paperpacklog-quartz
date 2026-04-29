@@ -98,6 +98,6 @@ EU PPWR(포장재 규제)와 국내 1회용 플라스틱 사용 규제 강화로
 
 **참고 자료**
 - [(주)윤성, 종이앵글 제품 규격 정보](https://www.ysung.com/products?lang=ko)
-- [Northrich, "Complete Guide to Paperboard Edge Protectors" (2025)](https://northrich.net/complete-guide-to-paperboard-edge-protectors-canada-usa-1204/)
+- [Future Market Insights, "Paper Edge Protector Market (2026-2036)" (2026.04.11)](https://www.futuremarketinsights.com/reports/paper-edge-protectors-market) <!-- pub: 2026-04-11 -->
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)
 - [한국제지연합회, 국내 제지산업 월별 수급현황](http://www.paper.or.kr/sub_5/5_1_2.php)
