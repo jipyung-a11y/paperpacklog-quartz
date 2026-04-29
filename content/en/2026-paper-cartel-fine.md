@@ -18,7 +18,7 @@ In April 2026, the Korea Fair Trade Commission (KFTC) delivered the largest-ever
 
 ## What Happened
 
-The KFTC found that Moorim SP, Moorim Paper, Moorim P&P, Korea Paper, Hansol Paper, and Hongwon Paper had colluded on the selling prices of printing paper from **February 2021 to December 2024** — a span of **three years and ten months**. During that time the companies held more than **60 meetings** and reached **seven separate price-increase agreements**.
+The KFTC found that Moorim SP, Moorim Paper, Moorim P&P, Korea Paper, Hansol Paper, and Hongwon Paper had colluded on the selling prices of printing paper from **February 2021 to December 2024**: a span of **three years and ten months**. During that time the companies held more than **60 meetings** and reached **seven separate price-increase agreements**.
 
 The cumulative effect: printing paper prices rose by an average of **71%**. The fine is the fifth-largest in KFTC history across all industries, and the largest ever imposed on the paper sector.
 
@@ -40,7 +40,7 @@ In addition to the fines, the KFTC issued a **price re-determination order** req
 
 ## Who Paid the Real Price
 
-A 71% increase in printing paper prices did not stay within the industry. The cost was passed downstream to printing shops, publishers, and ultimately consumers. Textbook, magazine, and office paper prices all climbed sharply during the cartel period — an outcome the KFTC cited as evidence of consumer harm.
+A 71% increase in printing paper prices did not stay within the industry. The cost was passed downstream to printing shops, publishers, and ultimately consumers. Textbook, magazine, and office paper prices all climbed sharply during the cartel period: an outcome the KFTC cited as evidence of consumer harm.
 
 ## What Comes Next
 
@@ -54,7 +54,7 @@ The KFTC described the action as a clear warning against using raw material cost
 
 **Q: How much did printing paper prices rise during the cartel period?**
 
-Prices rose by an average of 71% from February 2021 through December 2024 — about three years and ten months. During that time the six companies met more than 60 times and reached seven separate price-increase agreements.
+Prices rose by an average of 71% from February 2021 through December 2024: about three years and ten months. During that time the six companies met more than 60 times and reached seven separate price-increase agreements.
 
 **Q: Which company received the largest fine?**
 
@@ -66,11 +66,11 @@ The KFTC issued a price re-determination order, but pulp prices, the weak won (�
 
 ## About the Author
 
-**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 **References**
-- [Kookmin Ilbo, "Printing Paper Prices Up 71% — Six Paper Companies Hit With ₩338.3B Fines for Cartel" (April 23, 2026)](https://www.kmib.co.kr/article/view.asp?arcid=0029724245&code=61141111&sid1=eco)
-- [Herald Economy, "Why Printing Paper Jumped 71% — Six Paper Companies' Collusion" (April 23, 2026)](https://biz.heraldcorp.com/article/10724218)
-- [Aju News, "KFTC Imposes ₩338.3B on Paper Cartel — Largest in Industry History" (April 23, 2026)](https://www.ajunews.com/view/20260423112837093)
-- [Financial News, "Behind Book Prices: Paper Cartel — Price Re-determination Order and ₩338.3B Fines" (April 23, 2026)](https://www.fnnews.com/news/202604231108582980)
-- [Asia Today, "Paper Industry '3 Years 10 Months Collusion' Caught — KFTC ₩338.3B Fine" (April 23, 2026)](https://www.asiatoday.co.kr/kn/view.php?key=20260423010007507)
+- [Kookmin Ilbo, "Printing Paper Prices Up 71%: Six Paper Companies Hit With ₩338.3B Fines for Cartel" (April 23, 2026)](https://www.kmib.co.kr/article/view.asp?arcid=0029724245&code=61141111&sid1=eco)
+- [Herald Economy, "Why Printing Paper Jumped 71%: Six Paper Companies' Collusion" (April 23, 2026)](https://biz.heraldcorp.com/article/10724218)
+- [Aju News, "KFTC Imposes ₩338.3B on Paper Cartel: Largest in Industry History" (April 23, 2026)](https://www.ajunews.com/view/20260423112837093)
+- [Financial News, "Behind Book Prices: Paper Cartel: Price Re-determination Order and ₩338.3B Fines" (April 23, 2026)](https://www.fnnews.com/news/202604231108582980)
+- [Asia Today, "Paper Industry '3 Years 10 Months Collusion' Caught: KFTC ₩338.3B Fine" (April 23, 2026)](https://www.asiatoday.co.kr/kn/view.php?key=20260423010007507)

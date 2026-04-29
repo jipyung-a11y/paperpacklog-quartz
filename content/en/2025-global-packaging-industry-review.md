@@ -26,7 +26,7 @@ Growth rates are steady rather than spectacular. Paper and paperboard packaging 
 
 ## Regulation of the Year: EU PPWR
 
-The biggest story in packaging in 2025 was the enforcement of the **EU Packaging and Packaging Waste Regulation (PPWR, EU 2025/40)**. Adopted in December 2024 and officially in force from February 11, 2025, its full application begins August 12, 2026 — but the checklist is long.
+The biggest story in packaging in 2025 was the enforcement of the **EU Packaging and Packaging Waste Regulation (PPWR, EU 2025/40)**. Adopted in December 2024 and officially in force from February 11, 2025, its full application begins August 12, 2026: but the checklist is long.
 
 Three core requirements stand out:
 
@@ -40,7 +40,7 @@ In the US, five states launched Extended Producer Responsibility (EPR) laws, sig
 
 Growing e-commerce volumes are directly driving corrugated demand. Corrugated boxes dominate across food, beverage, healthcare, and e-commerce segments thanks to versatility and cost competitiveness. Recycled fiber accounted for **53.67%** of corrugated volume in 2025.
 
-That said, recycled fiber alone can't always meet performance requirements. After roughly seven use cycles, mechanical properties degrade — so converters blend **20–30% virgin long fiber** to maintain burst strength and puncture resistance without inflating basis weight.
+That said, recycled fiber alone can't always meet performance requirements. After roughly seven use cycles, mechanical properties degrade: so converters blend **20–30% virgin long fiber** to maintain burst strength and puncture resistance without inflating basis weight.
 
 ## Cost Pressures: OCC and Electricity Double Hit
 
@@ -54,11 +54,11 @@ Mid-sized converters unable to absorb these increases faced consolidation pressu
 
 **81% of consumers** now demand sustainable packaging. The bioplastics market surpassed $27.9 billion in 2025, growing at a 21.7% CAGR. Digital printing adoption accelerated, with inkjet-based solutions rapidly displacing offset lines to meet short-run, high-variety demands.
 
-AI and digitalization now mean more than production efficiency. They are becoming tools for optimizing material use at the design stage and for verifying supply chain transparency — both requirements increasingly mandated by law.
+AI and digitalization now mean more than production efficiency. They are becoming tools for optimizing material use at the design stage and for verifying supply chain transparency: both requirements increasingly mandated by law.
 
 ## Looking Ahead to 2026
 
-With PPWR's full application arriving in August 2026, European brand owners will face a concentrated wave of packaging redesign demand this year. E-commerce growth shows no signs of slowing, and cost pressures are unlikely to ease soon. The demand foundation for paper and paperboard packaging is solid — but protecting margins will require technology investment and scale.
+With PPWR's full application arriving in August 2026, European brand owners will face a concentrated wave of packaging redesign demand this year. E-commerce growth shows no signs of slowing, and cost pressures are unlikely to ease soon. The demand foundation for paper and paperboard packaging is solid: but protecting margins will require technology investment and scale.
 
 2025 will be remembered as the year packaging's relationship with sustainability shifted from aspiration to obligation.
 
@@ -66,7 +66,7 @@ With PPWR's full application arriving in August 2026, European brand owners will
 
 **Q: How does EU PPWR affect Korean exporters?**
 
-From August 12, 2026, packaging used for products entering the EU must comply with PPWR requirements (Declaration of Conformity, recyclability grading). Non-compliant packaging cannot enter the EU market. Industries with high EU revenue exposure — food, electronics, cosmetics — need to act quickly.
+From August 12, 2026, packaging used for products entering the EU must comply with PPWR requirements (Declaration of Conformity, recyclability grading). Non-compliant packaging cannot enter the EU market. Industries with high EU revenue exposure: food, electronics, cosmetics: need to act quickly.
 
 **Q: Will the paper packaging market really keep growing?**
 
@@ -78,13 +78,13 @@ Recycled fiber loses mechanical strength after roughly seven use cycles. Produce
 
 ## About the Author
 
-**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 ## Sources
 
-- [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035 — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
-- [Paper and Paperboard Packaging Market — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-paper-and-paperboard-packaging-market)
-- [Corrugated Board Packaging Market Size & Share — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/corrugated-board-packaging-market)
-- [EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce — Greenberg Traurig](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
-- [EU PPWR – Packaging and Packaging Waste Regulation — business.gov.uk](https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-packaging-and-packaging-waste-regulation-eu-ppwr/)
-- [Packaging Industry Statistics & Market Trends (2025) — Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics)
+- [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035: GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
+- [Paper and Paperboard Packaging Market: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-paper-and-paperboard-packaging-market)
+- [Corrugated Board Packaging Market Size & Share: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/corrugated-board-packaging-market)
+- [EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce: Greenberg Traurig](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
+- [EU PPWR – Packaging and Packaging Waste Regulation: business.gov.uk](https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-packaging-and-packaging-waste-regulation-eu-ppwr/)
+- [Packaging Industry Statistics & Market Trends (2025): Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics)

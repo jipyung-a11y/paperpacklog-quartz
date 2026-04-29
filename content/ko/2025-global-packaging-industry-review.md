@@ -40,11 +40,11 @@ cover:
 
 e커머스 물동량 증가는 골판지 수요를 직접적으로 끌어올리고 있다. 골판지 박스는 식품·음료·의료·e커머스를 가리지 않고 범용성과 가격 경쟁력으로 시장을 지배 중이다. 2025년 골판지 시장에서 재생 섬유 비율은 **53.67%** 에 달했다.
 
-다만 재생 섬유만으로는 품질 기준을 맞추기 어렵다. 섬유는 약 7회 반복 사용 후 기계적 성능이 저하되기 때문에, 컨버터들은 버진 장섬유를 **20~30% 혼합**하여 파열 강도와 내천공 성능을 보완하고 있다.
+다만 재생 섬유만으로는 품질 기준을 맞추기 어렵다. 섬유는 약 7회 반복 사용 후 기계적 성능이 저하되기 때문에, 컨버터들은 버진 장섬유를 **20에서 30% 혼합**하여 파열 강도와 내천공 성능을 보완하고 있다.
 
 ## 원가 압박: OCC·전기료의 이중고
 
-2025년 1월 OCC(폐골판지) 가격은 전년 동기 대비 **톤당 7.10달러** 상승했다. 물류 병목과 아시아 제지사의 경쟁적 수요가 원인이었다. 유럽에서는 2024~25년 겨울 전력 현물 가격이 **MWh당 150유로**를 넘어서면서 골판지 생산 비용이 단기간에 숏톤당 28달러까지 뛰었다.
+2025년 1월 OCC(폐골판지) 가격은 전년 동기 대비 **톤당 7.10달러** 상승했다. 물류 병목과 아시아 제지사의 경쟁적 수요가 원인이었다. 유럽에서는 2024에서 25년 겨울 전력 현물 가격이 **MWh당 150유로**를 넘어서면서 골판지 생산 비용이 단기간에 숏톤당 28달러까지 뛰었다.
 
 비용 상승을 흡수하지 못한 중소형 컨버터들의 통폐합이 이어졌고, 대형 제지·포장 그룹의 시장 점유율 집중이 가속됐다.
 
@@ -74,17 +74,17 @@ PPWR 본격 적용(2026년 8월)을 앞두고 올해 유럽 브랜드사들의 �
 
 **Q: 재생 섬유와 신재 섬유 비율은 왜 중요한가요?**
 
-재생 섬유는 약 7회 사용 후 기계적 강도가 떨어집니다. 그래서 일반적으로 신재 장섬유 20~30%를 혼합해 파열 강도와 내펑크 강도를 유지합니다.
+재생 섬유는 약 7회 사용 후 기계적 강도가 떨어집니다. 그래서 일반적으로 신재 장섬유 20에서 30%를 혼합해 파열 강도와 내펑크 강도를 유지합니다.
 
 ## 작성자 소개
 
-**PackingMaster** — 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 모아 정리합니다.
+**PackingMaster**: 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 모아 정리합니다.
 
 ## 참고 자료
 
-- [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035 — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
-- [Paper and Paperboard Packaging Market — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-paper-and-paperboard-packaging-market)
-- [Corrugated Board Packaging Market Size & Share — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/corrugated-board-packaging-market)
-- [EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce — Greenberg Traurig](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
-- [EU PPWR – Packaging and Packaging Waste Regulation — business.gov.uk](https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-packaging-and-packaging-waste-regulation-eu-ppwr/)
-- [Packaging Industry Statistics & Market Trends (2025) — Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics)
+- [Global Packaging Market Set to Reach USD 1.75 Trillion by 2035: GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280892/0/en/Global-Packaging-Market-Set-to-Reach-USD-1-75-Trillion-by-2035-Driven-by-Sustainability-and-Smart-Innovation.html)
+- [Paper and Paperboard Packaging Market: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-paper-and-paperboard-packaging-market)
+- [Corrugated Board Packaging Market Size & Share: Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/corrugated-board-packaging-market)
+- [EU Packaging and Packaging Waste Regulation: New Compliance Requirements for E-Commerce: Greenberg Traurig](https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce)
+- [EU PPWR – Packaging and Packaging Waste Regulation: business.gov.uk](https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-packaging-and-packaging-waste-regulation-eu-ppwr/)
+- [Packaging Industry Statistics & Market Trends (2025): Southern Packaging](https://www.southernpackaginglp.com/blog/packaging-industry-statistics)

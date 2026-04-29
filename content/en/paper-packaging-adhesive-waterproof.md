@@ -1,10 +1,10 @@
 ---
-title: "Paper Packaging Adhesive Guide — From PVAc to Waterproof D4"
+title: "Paper Packaging Adhesive Guide: From PVAc to Waterproof D4"
 date: 2026-04-28T12:15:00+09:00
 draft: false
 tags: ["adhesive", "PVAc", "PUR", "waterproof adhesive", "EN 204", "packaging materials"]
 categories: ["Materials"]
-summary: "PVAc emulsion adhesive (locally known as 'PoriZol') is the workhorse of Korean paper packaging. But when waterproofing matters, the right choice is a cross-linked PVAc, PUR hot melt, or PUD — explained through the EN 204 grading system."
+summary: "PVAc emulsion adhesive (locally known as 'PoriZol') is the workhorse of Korean paper packaging. But when waterproofing matters, the right choice is a cross-linked PVAc, PUR hot melt, or PUD: explained through the EN 204 grading system."
 translationKey: "paper-packaging-adhesive-waterproof"
 cover:
   image: ../images/posts/paper-packaging-adhesive-waterproof/cover.png
@@ -14,23 +14,23 @@ cover:
 ![Paper packaging adhesives and waterproof grades](../images/posts/paper-packaging-adhesive-waterproof/cover.png)
 
 
-The strength of paper packaging is often determined more by the **adhesive** than by the paper itself. The lamination of a V-shaped angle board, the bond between corrugated liners and fluting, the multi-layer assembly of a flat board — if the adhesive fails, the paper is irrelevant. In Korea, the dominant adhesive is **PoriZol (a PVAc emulsion)**, but waterproof environments demand something different.
+The strength of paper packaging is often determined more by the **adhesive** than by the paper itself. The lamination of a V-shaped angle board, the bond between corrugated liners and fluting, the multi-layer assembly of a flat board: if the adhesive fails, the paper is irrelevant. In Korea, the dominant adhesive is **PoriZol (a PVAc emulsion)**, but waterproof environments demand something different.
 
-## The Korean Standard — PoriZol (PVAc Emulsion)
+## The Korean Standard: PoriZol (PVAc Emulsion)
 
 PoriZol is a brand name for polyvinyl acetate (PVAc) water-based dispersion adhesive that has become a generic term in Korea, similar to how "white glue" works in English-speaking markets.
 
 **Strengths:**
-- **Low cost** — the standard price point in paper packaging
-- **Water-based** — virtually no VOCs, friendly to the work environment
-- **Fast initial tack** — fixates quickly under compression
-- **Affinity for paper** — penetrates between cellulose fibers for strong bonds
-- **Recyclability** — repulpable along with the paper substrate
+- **Low cost**: the standard price point in paper packaging
+- **Water-based**: virtually no VOCs, friendly to the work environment
+- **Fast initial tack**: fixates quickly under compression
+- **Affinity for paper**: penetrates between cellulose fibers for strong bonds
+- **Recyclability**: repulpable along with the paper substrate
 
 **Limitations:**
-- **Poor water resistance** — bond strength drops sharply on water contact
-- **Heat limit** — softens above 60°C
-- **EN 204 grade** — typically D1–D2 (indoor, dry environments)
+- **Poor water resistance**: bond strength drops sharply on water contact
+- **Heat limit**: softens above 60°C
+- **EN 204 grade**: typically D1–D2 (indoor, dry environments)
 
 PoriZol is sufficient for paper angle boards, corrugated boxes, and flat boards in standard environments. But the limits show up clearly in:
 
@@ -43,13 +43,13 @@ PoriZol is sufficient for paper angle boards, corrugated boxes, and flat boards 
 
 ![Adhesive types compared by application environment](../images/posts/paper-packaging-adhesive-waterproof/img-01.png)
 
-## The Global Standard — EN 204
+## The Global Standard: EN 204
 
 When discussing waterproof adhesives, the unavoidable reference is **DIN EN 204**. Originating in European woodworking and packaging, this water-resistance grading system has become the de facto global standard, applying equally to paper packaging adhesives.
 
 | Class | Use Environment | Water Resistance |
 |-------|-----------------|------------------|
-| **D1** | Indoor, dry (≤ 50% RH average) | Lowest — typical PVAc |
+| **D1** | Indoor, dry (≤ 50% RH average) | Lowest: typical PVAc |
 | **D2** | Indoor, short-term high humidity or condensation | Mild water resistance |
 | **D3** | Indoor, frequent short-term water contact or sustained high humidity | Medium water resistance |
 | **D4** | Outdoor, frequent long-term water contact or direct exposure | **Fully waterproof** |
@@ -100,7 +100,7 @@ Water-based PU adhesive. Combined with a cross-linker, can achieve D4-level wate
 |----------|---------------|-------------------|--------------|--------------|-----|
 | Cost | ★ (lowest) | ★★ | ★★ | ★★★★ | ★★★ |
 | Water resistance (EN 204) | D1–D2 | D3–D4 | D2 | D4+ | D4 |
-| Heat resistance | ~60°C | ~70°C | ~80°C | ~100°C | ~80°C |
+| Heat resistance | up to 60°C | up to 70°C | up to 80°C | up to 100°C | up to 80°C |
 | Application speed | Moderate | Moderate | Fast | Fast | Moderate |
 | Automation | △ | △ | ◎ | ◎ | ○ |
 | Recyclability | ◎ | ○ | △ | △ | ○ |
@@ -108,7 +108,7 @@ Water-based PU adhesive. Combined with a cross-linker, can achieve D4-level wate
 
 ## Selection Guide
 
-- **Standard boxes/angles, indoor storage** → PoriZol (PVAc) — perfect fit
+- **Standard boxes/angles, indoor storage** → PoriZol (PVAc): perfect fit
 - **Cold-chain or ocean export** → Cross-linked PVAc or PUR hot melt
 - **Direct food contact** → PUD or PUR hot melt (FDA-certified products)
 - **Single adhesive across an automated line** → EVA hot melt (general) or PUR hot melt (waterproof)
@@ -116,11 +116,11 @@ Water-based PU adhesive. Combined with a cross-linker, can achieve D4-level wate
 
 ## Implementation Notes
 
-1. **Existing line compatibility** — Plan dispenser and compression-time adjustments before introducing a new adhesive.
-2. **Temperature/humidity management** — Hot melts need precise application temperature; water-based products need controlled storage.
-3. **Pilot testing is essential** — Even within the same PUR family, bond strength varies by paper grade and basis weight.
-4. **Recyclability certification** — For EU export, verify that the adhesive is repulpable.
-5. **Food safety certification** — For direct food contact, confirm FDA (US), EU 1935/2004, or KFDA (Korea) certification.
+1. **Existing line compatibility**: Plan dispenser and compression-time adjustments before introducing a new adhesive.
+2. **Temperature/humidity management**: Hot melts need precise application temperature; water-based products need controlled storage.
+3. **Pilot testing is essential**: Even within the same PUR family, bond strength varies by paper grade and basis weight.
+4. **Recyclability certification**: For EU export, verify that the adhesive is repulpable.
+5. **Food safety certification**: For direct food contact, confirm FDA (US), EU 1935/2004, or KFDA (Korea) certification.
 
 ## FAQ
 
@@ -138,7 +138,7 @@ Use PVAc, PUR, or PUD products certified by FDA (US), EU 1935/2004 (EU), or KFDA
 
 ## About the Author
 
-**PackingMaster** — Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 **References**
 - [Glue Guns Direct, "D2 / D3 / D4 PVAc Adhesives Explained"](https://www.gluegunsdirect.com/shop/pva-adhesives/d2-d3-d4-pvac-adhesives/)
