@@ -97,7 +97,6 @@ EU PPWR(포장재 규제)와 국내 1회용 플라스틱 사용 규제 강화로
 **PackingMaster**: 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 모아 정리합니다. 현장과 데이터, 양쪽을 연결한 콘텐츠를 지향합니다.
 
 **참고 자료**
-- [(주)윤성, 종이앵글 제품 규격 정보](https://www.ysung.com/products?lang=ko)
 - [Future Market Insights, "Paper Edge Protector Market (2026-2036)" (2026.04.11)](https://www.futuremarketinsights.com/reports/paper-edge-protectors-market) <!-- pub: 2026-04-11 -->
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)
 - [한국제지연합회, 국내 제지산업 월별 수급현황](http://www.paper.or.kr/sub_5/5_1_2.php)

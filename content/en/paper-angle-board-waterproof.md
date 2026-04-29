@@ -176,7 +176,6 @@ Products using food-grade paraffin or natural beeswax are safe for direct food c
 **PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 **References**
-- [Ysung Co., Ltd., Paper Angle Board Product Lineup](https://www.ysung.com/products?lang=en)
 - [Future Market Insights, "Paper Edge Protector Market (2026-2036)" (2026-04-11)](https://www.futuremarketinsights.com/reports/paper-edge-protectors-market) <!-- pub: 2026-04-11 -->
 - [ACS Environmental Au, "Wax Coatings for Paper Packaging Applications" (2024)](https://pubs.acs.org/doi/10.1021/acsenvironau.4c00055)
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)

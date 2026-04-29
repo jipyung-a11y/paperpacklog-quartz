@@ -97,7 +97,6 @@ Yes. Paper angle boards are made primarily from recycled kraft paper (OCC) and a
 **PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry, with content that connects field perspective and data.
 
 **References**
-- [Ysung Co., Ltd., Paper Angle Board Product Specifications](https://www.ysung.com/products?lang=en)
 - [Future Market Insights, "Paper Edge Protector Market (2026-2036)" (2026-04-11)](https://www.futuremarketinsights.com/reports/paper-edge-protectors-market) <!-- pub: 2026-04-11 -->
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)
 - [Korea Paper Manufacturers Association, Monthly Supply Status](http://www.paper.or.kr/sub_5/5_1_2.php)
