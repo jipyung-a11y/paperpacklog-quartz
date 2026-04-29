@@ -176,6 +176,7 @@ EU PPWR(2026년 8월 시행)과 국내 1회용 플라스틱 규제 강화로, �
 **PackingMaster**: 페이퍼팩로그 편집자. 종이 포장재 산업의 시장 동향, 제품 정보, 기술 인사이트를 모아 정리합니다.
 
 **참고 자료**
+- [(주)윤성, 종이앵글 제품 라인업](https://www.ysung.com/products?lang=ko)
 - [Future Market Insights, "Paper Edge Protector Market (2026-2036)" (2026.04.11)](https://www.futuremarketinsights.com/reports/paper-edge-protectors-market) <!-- pub: 2026-04-11 -->
 - [ACS Environmental Au, "Wax Coatings for Paper Packaging Applications: Study of the Coating Effect on Surface, Mechanical, and Barrier Properties" (2024)](https://pubs.acs.org/doi/10.1021/acsenvironau.4c00055)
 - [Greif, "Edge and Angle Board Product Guide"](https://www.greif.com/edge-and-angle-board/)
