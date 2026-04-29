@@ -11,7 +11,7 @@ cd "$QUARTZ_DIR"
 
 echo "▶ 1/5 Hugo 콘텐츠 → Quartz 복사"
 rm -rf content/ko content/en content/images
-mkdir -p content/ko content/en
+mkdir -p content/ko content/en content/images
 cp "$HUGO_DIR"/content/ko/posts/*.md content/ko/
 cp "$HUGO_DIR"/content/en/posts/*.md content/en/
 cp -R "$HUGO_DIR"/static/images/posts content/images/
