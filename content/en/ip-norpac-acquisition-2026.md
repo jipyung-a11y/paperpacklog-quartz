@@ -48,9 +48,13 @@ The deal arrives amid a challenging macro environment for containerboard. Q1 202
 
 In this environment, scale and operational flexibility matter more than ever. By absorbing NORPAC's one million tons of annual capacity, IP further strengthens its ability to optimize system-wide production, reduce per-unit costs, and offer customers a more integrated West-Coast-to-East-Coast service proposition. Smaller regional producers face growing competitive pressure as a result.
 
+![Aerial view of a Pacific Northwest containerboard mill at sunset with kraft paper rolls stacked outdoors](../images/posts/ip-norpac-acquisition-2026/img-01.png)
+
 ## Implications for Korea's Paper Packaging Industry
 
 While this transaction is North American in scope, Korean paper packaging manufacturers, corrugated board producers, and raw material buyers have reason to pay attention to three developing trends.
+
+![Korean cardboard packaging factory workers inspecting recycled lightweight corrugated containerboard sheets](../images/posts/ip-norpac-acquisition-2026/img-02.png)
 
 ### 1. Accelerating Global Consolidation: Pricing Power Implications
 
@@ -87,9 +91,9 @@ The direct short-term impact on Korean manufacturers is limited. However, three 
 **PackingMaster**: Editor of PaperPackLog. Covering market trends, product insights, and technology developments across the paper packaging industry.
 
 **References**
-- [PR Newswire, "International Paper to Acquire North Pacific Paper Company" (April 16, 2026)](https://www.prnewswire.com/news-releases/international-paper-to-acquire-north-pacific-paper-company-302745070.html)
-- [Packaging Dive, "International Paper to acquire North Pacific Paper Co. for $360M" (April 16, 2026)](https://www.packagingdive.com/news/international-paper-acquire-north-pacific-paper-containerboard/817755/)
-- [Packaging Insights, "International Paper to expand containerboard capacity with NORPAC acquisition" (April 2026)](https://www.packaginginsights.com/news/international-paper-norpac-acquisition.html)
-- [Recycling Today, "IP agrees to acquire Norpac" (April 2026)](https://www.recyclingtoday.com/news/international-norpac-paper-board-acquisition-recycling-2026/)
-- [EUWID Paper, "IP targets Norpac acquisition to bolster North American business" (April 17, 2026)](https://www.euwid-paper.com/news/companies/ip-to-acquire-norpac-and-strengthen-170426/)
-- [Paper Age, "International Paper to Acquire North Pacific Paper Company for $360 Million" (April 16, 2026)](https://www.paperage.com/2026news/04-16-2026international-paper-to-acquire-north-pacific-paper-company.html)
+- [PR Newswire, "International Paper to Acquire North Pacific Paper Company" (April 16, 2026)](https://www.prnewswire.com/news-releases/international-paper-to-acquire-north-pacific-paper-company-302745070.html) <!-- pub: 2026-04-16 -->
+- [Packaging Dive, "International Paper to acquire North Pacific Paper Co. for $360M" (April 16, 2026)](https://www.packagingdive.com/news/international-paper-acquire-north-pacific-paper-containerboard/817755/) <!-- pub: 2026-04-16 -->
+- [Packaging Insights, "International Paper to expand containerboard capacity with NORPAC acquisition" (April 2026)](https://www.packaginginsights.com/news/international-paper-norpac-acquisition.html) <!-- pub: 2026-04-15 -->
+- [Recycling Today, "IP agrees to acquire Norpac" (April 2026)](https://www.recyclingtoday.com/news/international-norpac-paper-board-acquisition-recycling-2026/) <!-- pub: 2026-04-15 -->
+- [EUWID Paper, "IP targets Norpac acquisition to bolster North American business" (April 17, 2026)](https://www.euwid-paper.com/news/companies/ip-to-acquire-norpac-and-strengthen-170426/) <!-- pub: 2026-04-17 -->
+- [Paper Age, "International Paper to Acquire North Pacific Paper Company for $360 Million" (April 16, 2026)](https://www.paperage.com/2026news/04-16-2026international-paper-to-acquire-north-pacific-paper-company.html) <!-- pub: 2026-04-16 -->
