@@ -82,7 +82,7 @@ If you ship to the EU, PPWR conformity declarations and recyclability grading da
 
 ## About the Author
 
-**PackingMaster**: editor of Paper Pack Log. Curates market trends, product intelligence, and technical insights from the global paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 ## References
 

@@ -108,7 +108,7 @@ KOREA PACK is expected to return at KINTEX in spring 2027. The integrated format
 
 ## About the Author
 
-**PackingMaster**: editor of PaperPackLog. Curates market trends, product information, and technical insights from the paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 **References**
 

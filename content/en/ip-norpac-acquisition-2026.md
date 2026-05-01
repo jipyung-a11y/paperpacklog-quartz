@@ -88,7 +88,7 @@ The direct short-term impact on Korean manufacturers is limited. However, three 
 
 ## About the Author
 
-**PackingMaster**: Editor of PaperPackLog. Covering market trends, product insights, and technology developments across the paper packaging industry.
+**PackingMaster**: Editor of PaperPackLog. Covers market trends, product insights, and technology in the paper packaging industry.
 
 **References**
 - [PR Newswire, "International Paper to Acquire North Pacific Paper Company" (April 16, 2026)](https://www.prnewswire.com/news-releases/international-paper-to-acquire-north-pacific-paper-company-302745070.html) <!-- pub: 2026-04-16 -->
